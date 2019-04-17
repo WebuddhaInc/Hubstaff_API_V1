@@ -1,6 +1,6 @@
 <?php namespace WebuddhaInc\Hubstaff_API_V1;
 
-class Config extends Object {
+class Config extends GenericObject {
 
   public $app_token;
   public $app_user;

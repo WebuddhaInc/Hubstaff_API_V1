@@ -1,6 +1,6 @@
 <?php namespace WebuddhaInc\Hubstaff_API_V1;
 
-class CurlResponse extends Object {
+class CurlResponse extends GenericObject {
 
   public $code;
   public $message;

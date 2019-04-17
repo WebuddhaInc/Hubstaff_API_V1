@@ -1,6 +1,6 @@
 <?php namespace WebuddhaInc\Hubstaff_API_V1;
 
-class Object {
+class GenericObject {
 
   public function __construct( $data = null ){
     if ($data) {
